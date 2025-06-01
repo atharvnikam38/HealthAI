@@ -9,3 +9,9 @@ ecr rpo uri
 completed cicd 
 
 ecr repo updated properly
+
+
+
+updated uri 
+
+692859946383.dkr.ecr.ap-south-1.amazonaws.com/medicalchatbot
